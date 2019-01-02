@@ -6,6 +6,7 @@ Employee Finder is a simple app that matches a user with an employee based on pe
 
 HTML<br>
 CSS<br>
+Bootstrap<br>
 Javascript<br>
 NodeJS<br>
 Express
